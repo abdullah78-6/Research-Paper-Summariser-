@@ -37,7 +37,7 @@ cd your-repository-name
 Navigate to your backend directory:
 
 ```bash
-cd backend
+cd Langchain
 ```
 
 Create and activate a virtual environment:
@@ -89,7 +89,7 @@ http://127.0.0.1:8000/docs
 Navigate to your React frontend directory:
 
 ```bash
-cd frontend
+cd client
 ```
 
 Install the dependencies:
